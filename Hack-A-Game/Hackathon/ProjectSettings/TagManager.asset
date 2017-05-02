@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ammo
+  - Enemy
+  - Sight
+  - EnemyAttack
+  - Walls
+  - Floor
+  - Grid
+  - Pause
+  - Grid_horizontal
+  - Grid_vertical
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walls
+  - Bullet
+  - Player
+  - Enemy
+  - BodyDamage
+  - EnemyAttack
+  - Sight
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Walls
+    uniqueID: 2904904229
+    locked: 0
